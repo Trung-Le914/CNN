@@ -1,2 +1,2 @@
-# CNN-RNN-LSTM-GRU
-Some basic implementations on Neural Networks, including CNN, RNN, and its derivatives
+# Convolution Neural Network
+Some implementations on Neural Networks, including CNN and its derivatives
